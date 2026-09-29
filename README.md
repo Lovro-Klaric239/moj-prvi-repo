@@ -1,4 +1,4 @@
-Moj prvi repo
+Moj prvi uradak
 poz od milaka
 poz od mihaela
 
