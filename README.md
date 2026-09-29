@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 kad će 3 
 kad će 3<-
 
@@ -18,3 +19,6 @@ poz od Mihaela
 
 nig
 
+=======
+# moj-prvi-repo
+>>>>>>> parent of d36a8b9 (Update README.md)
